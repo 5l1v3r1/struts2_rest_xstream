@@ -1,0 +1,1 @@
+# struts2_rest_xstream
